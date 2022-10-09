@@ -14,7 +14,6 @@ public class Main {
         int result1 = nums * nums;
         System.out.println(result1);
     }
-
     public static void main(String[] args) {
         System.out.println("squaring(5) = " + squaring(5));
         squaring1();
